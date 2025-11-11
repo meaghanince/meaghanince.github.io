@@ -29,8 +29,8 @@
         }
         
         header {
-            background: #031b31;
-            color: white;
+            background: #ffffff;
+            color: #0b5394;
             padding: 60px 40px;
             text-align: center;
         }
