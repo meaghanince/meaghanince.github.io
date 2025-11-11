@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,10 +12,10 @@
         }
         
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Montserrat, Oxygen, Ubuntu, Cantarell, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, Montserrat, Oxygen, Ubuntu, Cantarell, sans-serif;
             line-height: 1.6;
             color: #2c3e50;
-            background: linear-gradient(135deg, #0b5394 0%, #0b5394 100%);
+            background: linear-gradient(135deg, #ffffff 0%, #ffffff 100%);
             min-height: 100vh;
             padding: 20px;
         }
@@ -83,7 +83,7 @@
         .section h2 {
             font-size: 2em;
             margin-bottom: 30px;
-            color: #0b5394;
+            color: #ffffff;
             position: relative;
             padding-bottom: 10px;
         }
@@ -95,7 +95,7 @@
             left: 0;
             width: 60px;
             height: 4px;
-            background: linear-gradient(135deg, #0b5394 0%, #00000 100%);
+            background: linear-gradient(135deg, #ffffff 0%, #ffffff 100%);
             border-radius: 2px;
         }
         
@@ -103,7 +103,7 @@
             background: #0b5394;
             padding: 30px;
             border-radius: 15px;
-            border-left: 5px solid #0b5394;
+            border-left: 5px solid #ffffff;
         }
         
         .about p {
@@ -142,7 +142,7 @@
         .work-type {
             display: inline-block;
             padding: 5px 15px;
-            background: linear-gradient(135deg, #0b5394 0%, #000000 100%);
+            background: linear-gradient(135deg, #ffffff 0%, #ffffff 100%);
             color: white;
             border-radius: 20px;
             font-size: 0.85em;
