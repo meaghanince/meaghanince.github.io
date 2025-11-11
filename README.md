@@ -60,9 +60,9 @@
         .contact-links a {
             color: white;
             text-decoration: none;
-            padding: 5px 10px;
+            padding: 10px 10px;
             background: rgba(255,255,255,0.2);
-            border-radius: 25px;
+            border-radius: 4px;
             transition: all 0.3s;
             backdrop-filter: blur(5px);
         }
