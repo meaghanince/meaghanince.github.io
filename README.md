@@ -60,11 +60,11 @@
         .contact-links a {
             color: white;
             text-decoration: none;
-            padding: 10px 20px;
+            padding: 5px 10px;
             background: rgba(255,255,255,0.2);
             border-radius: 25px;
             transition: all 0.3s;
-            backdrop-filter: blur(10px);
+            backdrop-filter: blur(5px);
         }
         
         .contact-links a:hover {
