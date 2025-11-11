@@ -60,7 +60,7 @@
         .contact-links a {
             color: white;
             text-decoration: none;
-            padding: 10px 10px;
+            padding: 20px 10px;
             background: rgba(255,255,255,0.2);
             border-radius: 8px;
             transition: all 0.3s;
