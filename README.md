@@ -288,17 +288,17 @@
                         <div class="metrics">
                             <strong>Impact:</strong> Positioned organization as thought leader in AI-driven cancer research innovation; engaged diverse stakeholder groups including researchers, patients, and funders.
                         </div>
-                        <a href="#" class="link">View Campaign →</a>
+                        <a href="https://ovariancanada.org/news-stories/global-ovarian-cancer-research-consortium-ai-accelerator-grant" class="link">Read Article →</a>
                     </div>
                     
                     <div class="work-item">
                         <span class="work-type">Video Series</span>
                         <h3>Researcher Spotlight Series</h3>
-                        <p>Directed and produced video series featuring leading ovarian cancer researchers explaining their work in immunotherapy, genetic testing, and clinical trial design for patient and public audiences.</p>
+                        <p>Directed and produced video featuring leading ovarian cancer researchers explaining their work in pioneering the first ever early detection test for ovarian cancer.</p>
                         <div class="metrics">
                             <strong>Impact:</strong> 600% YoY growth in social media engagement; strengthened donor relationships through transparent research communication.
                         </div>
-                        <a href="#" class="link">Watch Series</a>
+                        <a href="[#](https://youtu.be/AJc-LmUBhQ8?si=9FgBlP6YOjZ8BPwX)" class="link">Watch Video</a>
                     </div>
                     
                     <div class="work-item">
@@ -338,7 +338,7 @@
                         <div class="metrics">
                             <strong>Impact:</strong> Strengthened relationships with key government stakeholders; contributed to increased advocacy impact.
                         </div>
-                        <a href="#" class="link">Learn More →</a>
+                        <a href="[#](https://ovariancanada.org/news-stories/ontario-mpps-hear-ovarian-cancer-canadas-call-for-action)" class="link">Learn More →</a>
                     </div>
                 </div>
             </section>
