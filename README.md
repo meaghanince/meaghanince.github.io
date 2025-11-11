@@ -277,12 +277,6 @@
                     <p><strong>Current Focus:</strong> Exploring the transformative potential of AI in scientific discovery and how to communicate responsibly about emerging technologies that will reshape research.</p>
                 </div>
             </section>
-            
-            <div class="placeholder-note">
-                <strong>📝 Portfolio Customization Instructions</strong>
-                Replace the sample work items below with your actual projects! For each piece, include: title, description, your role, impact metrics, and links to published work. Add images/videos if you have them.
-            </div>
-            
             <section class="section">
                 <h2>Selected Work</h2>
                 
