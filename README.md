@@ -260,11 +260,11 @@
     <div class="container">
         <header>
             <h1>Meaghan Ince</h1>
-            <p>Science Communicator | Content Strategist | Biomedical Research Storyteller</p>
+            <p>Science Communicator | Content Strategist | Research Storyteller</p>
             <div class="contact-links">
-                <a href="mailto:meaghan.ince@gmail.com">✉️ Email</a>
-                <a href="https://www.linkedin.com/in/meaghanince" target="_blank">🔗 LinkedIn</a>
-                <a href="tel:+14167378126">📱 416-737-8126</a>
+                <a href="mailto:meaghan.ince@gmail.com">Email</a>
+                <a href="https://www.linkedin.com/in/meaghanince" target="_blank">LinkedIn</a>
+                <a href="tel:+14167378126">416-737-8126</a>
             </div>
         </header>
         
@@ -272,14 +272,13 @@
             <section class="section">
                 <h2>About Me</h2>
                 <div class="about">
-                    <p>I'm a science communicator passionate about making complex biomedical research accessible and engaging for diverse audiences. With 4+ years of experience at Ovarian Cancer Canada, I've developed expertise in translating cutting-edge oncology research—from immunotherapy to AI applications in cancer research—into compelling narratives that resonate with patients, donors, researchers, and policymakers.</p>
+                    <p>I'm a science communicator passionate about making complex biomedical research accessible and engaging for diverse audiences. With 4+ years of experience, I've developed expertise in translating cutting-edge oncology research - from immunotherapy to AI applications in cancer research - into compelling narratives that resonate with patients, donors, researchers, and policymakers.</p>
                     <p>My work sits at the intersection of science, storytelling, and strategy. I believe that effective science communication has the power to build trust, inspire action, and accelerate progress toward breakthrough discoveries.</p>
                     <p><strong>Current Focus:</strong> Exploring the transformative potential of AI in scientific discovery and how to communicate responsibly about emerging technologies that will reshape research.</p>
                 </div>
             </section>
             <section class="section">
                 <h2>Selected Work</h2>
-                
                 <div class="work-grid">
                     <div class="work-item">
                         <span class="work-type">Science Communication</span>
@@ -298,7 +297,7 @@
                         <div class="metrics">
                             <strong>Impact:</strong> 600% YoY growth in social media engagement; strengthened donor relationships through transparent research communication.
                         </div>
-                        <a href="#" class="link">Watch Series →</a>
+                        <a href="#" class="link">Watch Series</a>
                     </div>
                     
                     <div class="work-item">
