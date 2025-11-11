@@ -30,7 +30,7 @@
         }
         
         header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: #031b31;
             color: white;
             padding: 60px 40px;
             text-align: center;
@@ -95,7 +95,7 @@
             left: 0;
             width: 60px;
             height: 4px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: #031b31;
             border-radius: 2px;
         }
         
@@ -142,7 +142,7 @@
         .work-type {
             display: inline-block;
             padding: 5px 15px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: #031b31;
             color: white;
             border-radius: 20px;
             font-size: 0.85em;
