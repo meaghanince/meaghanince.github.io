@@ -23,7 +23,7 @@
             max-width: 1100px;
             margin: 0 auto;
             background: white;
-            border-radius: 20px;
+            border-radius: 10px;
             box-shadow: 0 20px 60px rgba(0,0,0,0.3);
             overflow: hidden;
         }
@@ -84,7 +84,7 @@
         .section h2 {
             font-size: 2em;
             margin-bottom: 30px;
-            color: #667eea;
+            color: #0b5394;
             position: relative;
             padding-bottom: 10px;
         }
