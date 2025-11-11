@@ -55,17 +55,22 @@
             gap: 20px;
             justify-content: center;
             flex-wrap: wrap;
-        }
-        
-        .contact-links a {
-            color: white;
-            text-decoration: none;
-            padding: 20px 10px;
-            background: rgba(255,255,255,0.2);
-            border-radius: 8px;
-            transition: all 0.3s;
-            backdrop-filter: blur(5px);
-        }
+       .contact-links {
+    display: flex;
+    gap: 10px; /* space between buttons */
+}
+
+.contact-links a {
+    flex: 1; /* each link takes equal space */
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    background: rgba(255,255,255,0.2);
+    border-radius: 8px;
+    transition: all 0.3s;
+    backdrop-filter: blur(5px);
+}
         
         .contact-links a:hover {
             background: rgba(255,255,255,0.3);
