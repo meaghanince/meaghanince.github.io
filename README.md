@@ -29,7 +29,7 @@
         }
         
         header {
-            background: #01101d;
+            background: #0b5394;
             color: white;
             padding: 60px 40px;
             text-align: center;
