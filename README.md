@@ -96,7 +96,7 @@
             left: 0;
             width: 60px;
             height: 4px;
-            background: #031b31;
+            background: #0b5394;
             border-radius: 2px;
         }
         
