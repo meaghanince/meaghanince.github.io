@@ -50,14 +50,14 @@
         }
         
         .contact-links {
-            margin-top: 25px;
+            margin-top: 10px;
             display: flex;
             gap: 20px;
             justify-content: center;
             flex-wrap: wrap;
        .contact-links {
     display: flex;
-    gap: 10px; /* space between buttons */
+    gap: 20px; /* space between buttons */
 }
 
 .contact-links a {
