@@ -273,8 +273,9 @@
             <section class="section">
                 <h2>About Me</h2>
                 <div class="about">
-                    <p>I'm a science communicator passionate about making complex biomedical research accessible and engaging for diverse audiences. With 4+ years of experience, I've developed expertise in translating cutting-edge oncology research - from immunotherapy to AI applications in cancer research - into compelling narratives that resonate with patients, donors, researchers, and policymakers.</p>
-                    <p>My work sits at the intersection of science, storytelling, and strategy. I believe that effective science communication has the power to build trust, inspire action, and accelerate progress toward breakthrough discoveries.</p>
+                    <p><strong>My work lives at the intersection of science, storytelling, and strategic communication.</strong>
+                    I am a science communicator dedicated to bridging the gap between science and the community I serve. Over the past four years, I have honed my expertise in translating cutting-edge oncology research, including immunotherapy advancements and emerging AI applications in cancer care, into meaningful content that informs, inspires, and drives engagement among patients, donors, researchers, and policymakers.
+I am committed to elevating research by helping communities understand the "why" behind science. Because the future is exciting, when people understand that message, it builds trust, inspires action, and helps accelerate innovation.</p>
                     <p><strong>Current Focus:</strong> Exploring the transformative potential of AI in scientific discovery and how to communicate responsibly about emerging technologies that will reshape research.</p>
                 </div>
             </section>
@@ -284,7 +285,7 @@
                     <div class="work-item">
                         <span class="work-type">Science Communication</span>
                         <h3>AI in Ovarian Cancer Research Coalition</h3>
-                        <p>Developed comprehensive content strategy and multimedia campaign profiling a global coalition of research organizations funding AI applications in ovarian cancer drug discovery and diagnosis.</p>
+                        <p>Profiled global coalition of research organizations funding AI applications in ovarian cancer research.</p>
                         <div class="metrics">
                             <strong>Impact:</strong> Positioned organization as thought leader in AI-driven cancer research innovation; engaged diverse stakeholder groups including researchers, patients, and funders.
                         </div>
@@ -293,23 +294,14 @@
                     
                     <div class="work-item">
                         <span class="work-type">Video Series</span>
-                        <h3>Researcher Spotlight Series</h3>
+                        <h3>Researcher Spotlight</h3>
                         <p>Directed and produced video featuring leading ovarian cancer researchers explaining their work in pioneering the first ever early detection test for ovarian cancer.</p>
                         <div class="metrics">
                             <strong>Impact:</strong> 600% YoY growth in social media engagement; strengthened donor relationships through transparent research communication.
                         </div>
-                        <a href="[#](https://youtu.be/AJc-LmUBhQ8?si=9FgBlP6YOjZ8BPwX)" class="link">Watch Video</a>
+                        <a href="https://www.youtube.com/watch?v=AJc-LmUBhQ8" class="link">Watch Sample Video</a>
                     </div>
                     
-                    <div class="work-item">
-                        <span class="work-type">Long-Form Content</span>
-                        <h3>Understanding Clinical Trials</h3>
-                        <p>Created comprehensive educational resource breaking down the clinical trial process, from Phase I-III trials to FDA approval, helping patients understand how to evaluate trial opportunities.</p>
-                        <div class="metrics">
-                            <strong>Impact:</strong> Most-viewed resource on website; reduced patient inquiry time by providing accessible, trustworthy information.
-                        </div>
-                        <a href="#" class="link">Read Article →</a>
-                    </div>
                     
                     <div class="work-item">
                         <span class="work-type">Campaign Strategy</span>
@@ -324,7 +316,7 @@
                     <div class="work-item">
                         <span class="work-type">Brand Development</span>
                         <h3>Organizational Rebrand</h3>
-                        <p>Led strategic discussions on visual identity, voice, and tone for organizational rebrand, ensuring science communication aligned with refreshed brand while maintaining credibility with research community.</p>
+                        <p>Played a key role in strategic discussions on visual identity, voice, and tone for organizational rebrand, ensuring science communication aligned with refreshed brand while maintaining credibility with research community.</p>
                         <div class="metrics">
                             <strong>Impact:</strong> Seamless rebranding process with overwhelmingly positive stakeholder sentiment; stronger brand recognition and consistency.
                         </div>
@@ -333,12 +325,12 @@
                     
                     <div class="work-item">
                         <span class="work-type">Stakeholder Engagement</span>
-                        <h3>Policymaker Outreach Initiative</h3>
-                        <p>Developed content and talking points for engagement with provincial and federal policymakers on cancer research funding priorities, translating complex research needs into policy-relevant narratives.</p>
+                        <h3>Highlighting government advocacy efforts</h3>
+                        <p>Profiled organization advocacy initiatives aimed at securing increased fundring for prevention initiatives related to ovarian cancer.</p>
                         <div class="metrics">
                             <strong>Impact:</strong> Strengthened relationships with key government stakeholders; contributed to increased advocacy impact.
                         </div>
-                        <a href="[#](https://ovariancanada.org/news-stories/ontario-mpps-hear-ovarian-cancer-canadas-call-for-action)" class="link">Learn More →</a>
+                        <a href="(https://ovariancanada.org/news-stories/ontario-mpps-hear-ovarian-cancer-canadas-call-for-action)" class="link">Learn More →</a>
                     </div>
                 </div>
             </section>
