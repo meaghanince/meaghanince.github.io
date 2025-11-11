@@ -59,7 +59,7 @@
 .contact-links a {
     flex: 1; /* each link takes equal space */
     text-align: center;
-    color: white;
+    color: #0b5394;
     text-decoration: none;
     padding: 10px;
     background: rgba(255,255,255,0.2);
