@@ -15,7 +15,7 @@
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Montserrat, Oxygen, Ubuntu, Cantarell, sans-serif;
             line-height: 1.6;
             color: #2c3e50;
-            background: linear-gradient(135deg, #0b5394 0%, #00000 100%);
+            background: linear-gradient(135deg, #0b5394 0%, #0b5394 100%);
             min-height: 100vh;
             padding: 20px;
         }
