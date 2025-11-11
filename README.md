@@ -38,7 +38,7 @@
         header h1 {
             font-size: 2.5em;
             margin-bottom: 10px;
-            font-weight: 700;
+            font-weight: 900;
         }
         
         header p {
