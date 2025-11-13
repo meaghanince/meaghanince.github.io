@@ -310,7 +310,7 @@ I am committed to elevating research by helping communities understand the "why"
                         <div class="metrics">
                             <strong>Impact:</strong> Generated ~$1.5M in revenue with 3% YoY growth; managed cross-functional team across marketing, events, and development.
                         </div>
-                        <a href="#" class="link">View Case Study →</a>
+                        <a href="(https://drive.google.com/file/d/1Z7SoypfukbXznklw2lctwlmhRVx7Met3/view?usp=sharing)" class="link">View Case Study →</a>
                     </div>
                     
                     <div class="work-item">
@@ -320,7 +320,7 @@ I am committed to elevating research by helping communities understand the "why"
                         <div class="metrics">
                             <strong>Impact:</strong> Seamless rebranding process with overwhelmingly positive stakeholder sentiment; stronger brand recognition and consistency.
                         </div>
-                        <a href="#" class="link">View Brand Guide →</a>
+                        <a href="(https://drive.google.com/file/d/1QHQktuxVHwww4H7TXIyg4S_n6eY66g_p/view?usp=sharing)" class="link">View Brand Guide →</a>
                     </div>
                     
                     <div class="work-item">
