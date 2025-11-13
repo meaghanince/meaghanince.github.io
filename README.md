@@ -259,17 +259,17 @@
                 <a href="https://www.linkedin.com/in/meaghanince" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                 <a href="tel:+14167378126">416-737-8126</a>
             </div>
+<p><strong>My work lives at the intersection of science, storytelling, and strategic communication.</strong>
+            <p><strong>Current Focus:</strong> Exploring the transformative potential of AI in scientific discovery and how to communicate responsibly about emerging technologies that will reshape research.</p>
+                </div>
         </header>
         
         <main>
             <section class="section">
                 <h2>About Me</h2>
                 <div class="about">
-                    <p><strong>My work lives at the intersection of science, storytelling, and strategic communication.</strong>
                     I am a science communicator dedicated to bridging the gap between science and the community I serve. Over the past four years, I have honed my expertise in translating cutting-edge oncology research, including immunotherapy advancements and emerging AI applications in cancer care, into meaningful content that informs, inspires, and drives engagement among patients, donors, researchers, and policymakers.
                     I am committed to elevating research by helping communities understand the "why" behind science. <em>The future is exciting</em> and when people understand that message, it builds trust, inspires action, and helps accelerate innovation.</p>
-                    <p><strong>Current Focus:</strong> Exploring the transformative potential of AI in scientific discovery and how to communicate responsibly about emerging technologies that will reshape research.</p>
-                </div>
             </section>
 
             <section class="section">
