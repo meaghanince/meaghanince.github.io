@@ -32,7 +32,7 @@
         
         header {
             background: #0e263b;
-            color: #f0f4f8;
+            color: #ffffff;
             padding: 60px 40px;
             text-align: center;
         }
