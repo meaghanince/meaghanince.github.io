@@ -34,7 +34,7 @@
             background: #0e263b;
             color: #f0f4f8;
             padding: 60px 40px;
-            text-align: left;
+            text-align: center;
         }
         
         header h1 {
