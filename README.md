@@ -1,7 +1,9 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portfolio of Meaghan Ince, a science communicator specializing in oncology, AI research storytelling, and strategic communication.">
     <title>Meaghan Ince - Science Communication Portfolio</title>
     <style>
         * {
@@ -56,24 +58,24 @@
             flex-wrap: wrap;
         }
 
-.contact-links a {
-    flex: 1; /* each link takes equal space */
-    text-align: center;
-    color: white;
-    text-decoration: none;
-    padding: 10px;
-    background: rgba(255,255,255,0.2);
-    border-radius: 8px;
-    transition: all 0.3s;
-    backdrop-filter: blur(5px);
-}
+        .contact-links a {
+            flex: 1;
+            text-align: center;
+            color: white;
+            text-decoration: none;
+            padding: 10px;
+            background: rgba(255,255,255,0.2);
+            border-radius: 8px;
+            transition: all 0.3s;
+            backdrop-filter: blur(5px);
+        }
         
         .contact-links a:hover {
             background: rgba(255,255,255,0.3);
             transform: translateY(-2px);
         }
         
-        .content {
+        main {
             padding: 60px 40px;
         }
         
@@ -151,7 +153,7 @@
         }
         
         .work-item p {
-            color: #6c757d;
+            color: #5a5a5a;
             margin-bottom: 15px;
         }
         
@@ -203,7 +205,7 @@
         
         .skill-category li {
             padding: 8px 0;
-            color: #6c757d;
+            color: #5a5a5a;
             position: relative;
             padding-left: 20px;
         }
@@ -215,27 +217,17 @@
             color: #667eea;
         }
         
-        .placeholder-note {
-            background: #fff3cd;
-            border: 2px dashed #ffc107;
-            border-radius: 10px;
-            padding: 20px;
-            margin: 20px 0;
-            text-align: center;
-            color: #856404;
-        }
-        
-        .placeholder-note strong {
-            display: block;
-            margin-bottom: 10px;
-            font-size: 1.1em;
-        }
-        
         footer {
             background: #2c3e50;
             color: white;
             text-align: center;
             padding: 30px;
+        }
+
+        footer p {
+            margin-top: 10px;
+            font-size: 0.9em;
+            opacity: 0.8;
         }
         
         @media (max-width: 768px) {
@@ -247,7 +239,7 @@
                 font-size: 2em;
             }
             
-            .content {
+            main {
                 padding: 40px 20px;
             }
             
@@ -264,21 +256,22 @@
             <p>Science Communicator | Content Strategist | Research Storyteller</p>
             <div class="contact-links">
                 <a href="mailto:meaghan.ince@gmail.com">Email</a>
-                <a href="https://www.linkedin.com/in/meaghanince" target="_blank">LinkedIn</a>
+                <a href="https://www.linkedin.com/in/meaghanince" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                 <a href="tel:+14167378126">416-737-8126</a>
             </div>
         </header>
         
-        <div class="content">
+        <main>
             <section class="section">
                 <h2>About Me</h2>
                 <div class="about">
                     <p><strong>My work lives at the intersection of science, storytelling, and strategic communication.</strong>
                     I am a science communicator dedicated to bridging the gap between science and the community I serve. Over the past four years, I have honed my expertise in translating cutting-edge oncology research, including immunotherapy advancements and emerging AI applications in cancer care, into meaningful content that informs, inspires, and drives engagement among patients, donors, researchers, and policymakers.
-I am committed to elevating research by helping communities understand the "why" behind science. <em>The future is exciting</em> and when people understand that message, it builds trust, inspires action, and helps accelerate innovation.</p>
+                    I am committed to elevating research by helping communities understand the "why" behind science. <em>The future is exciting</em> and when people understand that message, it builds trust, inspires action, and helps accelerate innovation.</p>
                     <p><strong>Current Focus:</strong> Exploring the transformative potential of AI in scientific discovery and how to communicate responsibly about emerging technologies that will reshape research.</p>
                 </div>
             </section>
+
             <section class="section">
                 <h2>Selected Work</h2>
                 <div class="work-grid">
@@ -289,7 +282,7 @@ I am committed to elevating research by helping communities understand the "why"
                         <div class="metrics">
                             <strong>Impact:</strong> Positioned organization as thought leader in AI-driven cancer research innovation; engaged diverse stakeholder groups including researchers, patients, and funders.
                         </div>
-                        <a href="https://ovariancanada.org/news-stories/global-ovarian-cancer-research-consortium-ai-accelerator-grant" target="_blank" class="link">Read Article →</a>
+                        <a href="https://ovariancanada.org/news-stories/global-ovarian-cancer-research-consortium-ai-accelerator-grant" target="_blank" rel="noopener noreferrer" class="link">Read Article →</a>
                     </div>
                     
                     <div class="work-item">
@@ -299,9 +292,8 @@ I am committed to elevating research by helping communities understand the "why"
                         <div class="metrics">
                             <strong>Impact:</strong> 600% YoY growth in social media engagement; strengthened donor relationships through transparent research communication.
                         </div>
-                        <a href="https://youtu.be/XdSiDfdl4Nw" target="_blank"class="link">Watch Sample Video →</a>
+                        <a href="https://youtu.be/XdSiDfdl4Nw" target="_blank" rel="noopener noreferrer" class="link">Watch Sample Video →</a>
                     </div>
-                    
                     
                     <div class="work-item">
                         <span class="work-type">Campaign Strategy</span>
@@ -310,7 +302,7 @@ I am committed to elevating research by helping communities understand the "why"
                         <div class="metrics">
                             <strong>Impact:</strong> Generated ~$1.5M in revenue with 3% YoY growth; managed cross-functional team across marketing, events, and development.
                         </div>
-                        <a href="https://drive.google.com/file/d/1Z7SoypfukbXznklw2lctwlmhRVx7Met3/view?usp=sharing" target="_blank"class="link">View Case Study →</a>
+                        <a href="https://drive.google.com/file/d/1Z7SoypfukbXznklw2lctwlmhRVx7Met3/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="link">View Case Study →</a>
                     </div>
                     
                     <div class="work-item">
@@ -320,17 +312,17 @@ I am committed to elevating research by helping communities understand the "why"
                         <div class="metrics">
                             <strong>Impact:</strong> Seamless rebranding process with overwhelmingly positive stakeholder sentiment; stronger brand recognition and consistency.
                         </div>
-                        <a href="https://drive.google.com/file/d/1QHQktuxVHwww4H7TXIyg4S_n6eY66g_p/view?usp=sharing" target="_blank" class="link">View Brand Guide →</a>
+                        <a href="https://drive.google.com/file/d/1QHQktuxVHwww4H7TXIyg4S_n6eY66g_p/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="link">View Brand Guide →</a>
                     </div>
                     
                     <div class="work-item">
                         <span class="work-type">Stakeholder Engagement</span>
-                        <h3>Highlighting government advocacy efforts</h3>
-                        <p>Profiled organization advocacy initiatives aimed at securing increased fundring for prevention initiatives related to ovarian cancer.</p>
+                        <h3>Highlighting Government Advocacy Efforts</h3>
+                        <p>Profiled organization advocacy initiatives aimed at securing increased funding for prevention initiatives related to ovarian cancer.</p>
                         <div class="metrics">
                             <strong>Impact:</strong> Strengthened relationships with key government stakeholders; contributed to increased advocacy impact.
                         </div>
-                        <a href="https://ovariancanada.org/news-stories/ontario-mpps-hear-ovarian-cancer-canadas-call-for-action" target="_blank" class="link">Learn More →</a>
+                        <a href="https://ovariancanada.org/news-stories/ontario-mpps-hear-ovarian-cancer-canadas-call-for-action" target="_blank" rel="noopener noreferrer" class="link">Learn More →</a>
                     </div>
                 </div>
             </section>
@@ -383,11 +375,11 @@ I am committed to elevating research by helping communities understand the "why"
                     </div>
                 </div>
             </section>
-        </div>
+        </main>
         
         <footer>
             <p>© 2024 Meaghan Ince | Science Communication Portfolio</p>
-            <p style="margin-top: 10px; font-size: 0.9em; opacity: 0.8;">Translating complex science into compelling stories</p>
+            <p>Translating complex science into compelling stories</p>
         </footer>
     </div>
 </body>
