@@ -292,7 +292,7 @@
                         <div class="metrics">
                             <strong>Impact:</strong> 600% YoY growth in social media engagement; strengthened donor relationships through transparent research communication.
                         </div>
-                        <a href="https://youtu.be/XdSiDfdl4Nw" target="_blank" rel="noopener noreferrer" class="link">Watch Sample Video →</a>
+                        <a href="(https://youtu.be/XdSiDfdl4Nw" target="_blank" rel="noopener noreferrer)" class="link">Watch Sample Video →</a>
                     </div>
                     
                     <div class="work-item">
