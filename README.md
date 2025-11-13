@@ -259,6 +259,7 @@
                 <a href="https://www.linkedin.com/in/meaghanince" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                 <a href="tel:+14167378126">416-737-8126</a>
             </div>
+              <div class="about">
 <p><strong>My work lives at the intersection of science, storytelling, and strategic communication.</strong>
             <p><strong>Current Focus:</strong> Exploring the transformative potential of AI in scientific discovery and how to communicate responsibly about emerging technologies that will reshape research.</p>
                 </div>
