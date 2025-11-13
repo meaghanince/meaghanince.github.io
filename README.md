@@ -137,7 +137,7 @@
         }
         
         .work-item h3 {
-            color: #667eea;
+            color: #0e263b;
             margin-bottom: 10px;
             font-size: 1.4em;
         }
@@ -168,7 +168,7 @@
         .work-item .link {
             display: inline-block;
             margin-top: 15px;
-            color: #667eea;
+            color: #0b5394;
             text-decoration: none;
             font-weight: 600;
             transition: all 0.3s;
