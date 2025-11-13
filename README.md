@@ -194,7 +194,7 @@
         }
         
         .skill-category h3 {
-            color: #2c3e50;
+            color: #0e263b;
             margin-bottom: 15px;
             font-size: 1.2em;
         }
