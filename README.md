@@ -13,10 +13,10 @@
         }
         
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Montserrat', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            font-family: 'Montserrat', sans-serif;
             line-height: 1.6;
             color: #2c3e50;
-            background: #ffffff;
+            background: #f0f4f8;
             min-height: 100vh;
             padding: 20px;
         }
@@ -31,10 +31,10 @@
         }
         
         header {
-            background: #0b5394;
-            color: white;
+            background: #0e263b;
+            color: #f0f4f8;
             padding: 60px 40px;
-            text-align: center;
+            text-align: left;
         }
         
         header h1 {
@@ -86,7 +86,7 @@
         .section h2 {
             font-size: 2em;
             margin-bottom: 30px;
-            color: #0b5394;
+            color: #0e263b;
             position: relative;
             padding-bottom: 10px;
         }
@@ -98,7 +98,7 @@
             left: 0;
             width: 60px;
             height: 4px;
-            background: #0b5394;
+            background: #0e263b;
             border-radius: 2px;
         }
         
@@ -187,7 +187,7 @@
         }
         
         .skill-category {
-            background: #f8f9fa;
+            background: #f0f4f8;
             padding: 25px;
             border-radius: 15px;
             border-top: 4px solid #667eea;
