@@ -27,7 +27,6 @@
             background: white;
             border-radius: 10px;
             box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-  border-left: 6px solid #0e263b;
             overflow: hidden;
         }
         
@@ -107,7 +106,7 @@
             background: #f8f9fa;
             padding: 30px;
             border-radius: 15px;
-            border-left: 5px solid #667eea;
+            border-left: 5px solid #0e263b;
         }
         
         .about p {
@@ -191,7 +190,7 @@
             background: #f0f4f8;
             padding: 25px;
             border-radius: 15px;
-            border-top: 4px solid #667eea;
+            border-top: 4px solid #0e263b;
         }
         
         .skill-category h3 {
