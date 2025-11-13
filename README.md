@@ -299,7 +299,7 @@ I am committed to elevating research by helping communities understand the "why"
                         <div class="metrics">
                             <strong>Impact:</strong> 600% YoY growth in social media engagement; strengthened donor relationships through transparent research communication.
                         </div>
-                        <a href="https://www.youtube.com/watch?v=AJc-LmUBhQ8" class="link">Watch Sample Video</a>
+                        <a href="(https://youtu.be/XdSiDfdl4Nw)" class="link">Watch Sample Video</a>
                     </div>
                     
                     
