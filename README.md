@@ -289,7 +289,7 @@ I am committed to elevating research by helping communities understand the "why"
                         <div class="metrics">
                             <strong>Impact:</strong> Positioned organization as thought leader in AI-driven cancer research innovation; engaged diverse stakeholder groups including researchers, patients, and funders.
                         </div>
-                        <a href="https://ovariancanada.org/news-stories/global-ovarian-cancer-research-consortium-ai-accelerator-grant" class="link">Read Article →</a>
+                        <a href="https://ovariancanada.org/news-stories/global-ovarian-cancer-research-consortium-ai-accelerator-grant" target="_blank" class="link">Read Article →</a>
                     </div>
                     
                     <div class="work-item">
@@ -299,7 +299,7 @@ I am committed to elevating research by helping communities understand the "why"
                         <div class="metrics">
                             <strong>Impact:</strong> 600% YoY growth in social media engagement; strengthened donor relationships through transparent research communication.
                         </div>
-                        <a href="(https://youtu.be/XdSiDfdl4Nw)" class="link">Watch Sample Video</a>
+                        <a href="https://youtu.be/XdSiDfdl4Nw" target="_blank"class="link">Watch Sample Video →</a>
                     </div>
                     
                     
@@ -310,7 +310,7 @@ I am committed to elevating research by helping communities understand the "why"
                         <div class="metrics">
                             <strong>Impact:</strong> Generated ~$1.5M in revenue with 3% YoY growth; managed cross-functional team across marketing, events, and development.
                         </div>
-                        <a href="(https://drive.google.com/file/d/1Z7SoypfukbXznklw2lctwlmhRVx7Met3/view?usp=sharing)" class="link">View Case Study →</a>
+                        <a href="https://drive.google.com/file/d/1Z7SoypfukbXznklw2lctwlmhRVx7Met3/view?usp=sharing" target="_blank"class="link">View Case Study →</a>
                     </div>
                     
                     <div class="work-item">
@@ -320,7 +320,7 @@ I am committed to elevating research by helping communities understand the "why"
                         <div class="metrics">
                             <strong>Impact:</strong> Seamless rebranding process with overwhelmingly positive stakeholder sentiment; stronger brand recognition and consistency.
                         </div>
-                        <a href="(https://drive.google.com/file/d/1QHQktuxVHwww4H7TXIyg4S_n6eY66g_p/view?usp=sharing)" class="link">View Brand Guide →</a>
+                        <a href="https://drive.google.com/file/d/1QHQktuxVHwww4H7TXIyg4S_n6eY66g_p/view?usp=sharing" target="_blank" class="link">View Brand Guide →</a>
                     </div>
                     
                     <div class="work-item">
@@ -330,7 +330,7 @@ I am committed to elevating research by helping communities understand the "why"
                         <div class="metrics">
                             <strong>Impact:</strong> Strengthened relationships with key government stakeholders; contributed to increased advocacy impact.
                         </div>
-                        <a href="(https://ovariancanada.org/news-stories/ontario-mpps-hear-ovarian-cancer-canadas-call-for-action)" class="link">Learn More →</a>
+                        <a href="https://ovariancanada.org/news-stories/ontario-mpps-hear-ovarian-cancer-canadas-call-for-action" target="_blank" class="link">Learn More →</a>
                     </div>
                 </div>
             </section>
