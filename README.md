@@ -253,7 +253,7 @@
     <div class="container">
         <header>
             <h1>Meaghan Ince</h1>
-            <p>Science Communicator | Content Strategist | Research Storyteller</p>
+            <p>Science communicator, content strategist, and research storyteller</p>
             <div class="contact-links">
                 <a href="mailto:meaghan.ince@gmail.com">Email</a>
                 <a href="https://www.linkedin.com/in/meaghanince" target="_blank" rel="noopener noreferrer">LinkedIn</a>
@@ -265,8 +265,8 @@
             <section class="section">
                 <h2>About Me</h2>
                 <div class="about">
-                    <p><strong>My work lives at the intersection of science, storytelling, and strategic communication.</strong>
-                    I am a science communicator dedicated to bridging the gap between science and the community I serve. Over the past four years, I have honed my expertise in translating cutting-edge oncology research, including immunotherapy advancements and emerging AI applications in cancer care, into meaningful content that informs, inspires, and drives engagement among patients, donors, researchers, and policymakers.
+                    <p><strong>My work lives at the intersection of science, storytelling, and strategic communication.</strong></p>
+                   <p>I am a science communicator dedicated to bridging the gap between science and the community I serve. Over the past four years, I have honed my expertise in translating cutting-edge oncology research, including immunotherapy advancements and emerging AI applications in cancer care, into meaningful content that informs, inspires, and drives engagement among patients, donors, researchers, and policymakers.
                     I am committed to elevating research by helping communities understand the "why" behind science. <em>The future is exciting</em> and when people understand that message, it builds trust, inspires action, and helps accelerate innovation.</p>
                     <p><strong>Current Focus:</strong> Exploring the transformative potential of AI in scientific discovery and how to communicate responsibly about emerging technologies that will reshape research.</p>
                 </div>
@@ -378,7 +378,7 @@
         </main>
         
         <footer>
-            <p>© 2024 Meaghan Ince | Science Communication Portfolio</p>
+            <p>© 2025 Meaghan Ince | Science Communication Portfolio</p>
             <p>Translating complex science into compelling stories</p>
         </footer>
     </div>
