@@ -285,7 +285,7 @@
                     </div>
                     
                     <div class="work-item">
-                        <span class="work-type">Integrated research communication</span>
+                        <span class="work-type">Integrated Communication Strategy</span>
                         <h3>Research Communication Strategy</h3>
                         <p>Led collaboration with researchers and technical experts to strategize integrated research communication strategy using diverse and engaging research-focused content. This included both long and shortform web content, video, influencer collaboration, paid advertising, and print media.</p>
                         <div class="metrics">
