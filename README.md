@@ -285,11 +285,11 @@
                     </div>
                     
                     <div class="work-item">
-                        <span class="work-type">Video Series</span>
-                        <h3>Researcher Spotlight</h3>
-                        <p>Directed and produced video featuring leading ovarian cancer researchers explaining their work in pioneering the first ever early detection test for ovarian cancer.</p>
+                        <span class="work-type">Integrated research communication</span>
+                        <h3>Research Communication Strategy</h3>
+                        <p>Strategized and deployed research communication strategy, integrating diverse and engaging research-focused content into OCCs digital properties, including long and shortform web content, video, paid advertising, and print media.</p>
                         <div class="metrics">
-                            <strong>Impact:</strong> 600% YoY growth in social media engagement; strengthened donor relationships through transparent research communication.
+                            <strong>Impact:</strong> 208% avg. increase in social media reach; strengthened donor relationships through transparent research communication.
                         </div>
                         <a href="https://youtu.be/XdSiDfdl4Nw" target="_blank" rel="noopener noreferrer" class="link">Watch Sample Video →</a>
                     </div>
