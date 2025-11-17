@@ -365,11 +365,11 @@
                     <div class="skill-category">
                         <h3>Technical Tools</h3>
                         <ul>
-                            <li>Adobe Creative Suite</li>
-                            <li>Premiere Pro (video editing)</li>
+                        <li>AI Collaboration Tools: ChatGPT, Claude, Copilot</li>
+                            <li>Adobe Creative Suite: Illustrator, Photoshop, InDesign, Premiere Pro</li>                    
+                            <li>Analytics and social media management tools: Google Ananlytics, Meta Business Suite, Hootsuite, Later</li>
+                            <li>Project management tools: Microsoft Planner, Trello, Asana</li>
                             <li>Canva Pro</li>
-                            <li>Google Analytics</li>
-                            <li>Project management tools</li>
                         </ul>
                     </div>
                 </div>
