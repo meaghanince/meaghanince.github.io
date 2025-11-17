@@ -287,7 +287,7 @@
                     <div class="work-item">
                         <span class="work-type">Integrated research communication</span>
                         <h3>Research Communication Strategy</h3>
-                        <p>Led collaboration with researchers and technical experts to strategize deploy novel research communication strategy, integrating diverse and engaging research-focused content into OCCs digital properties, including long and shortform web content, video, paid advertising, and print media.</p>
+                        <p>Led collaboration with researchers and technical experts to strategize integrated research communication strategy using diverse and engaging research-focused content into OCCs digital properties. This included both long and shortform web content, video, influencer collaboration, paid advertising, and print media.</p>
                         <div class="metrics">
                             <strong>Impact:</strong> 208% avg. increase in social media reach; strengthened donor relationships through transparent research communication.
                         </div>
